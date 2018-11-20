@@ -1,0 +1,14 @@
+{
+  "name": "viewer",
+  "title": "viewer",
+  "description": "基于viewer.js二次开发",
+  "version": "0.1.0",
+  "main": "dist/viewer.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liubaochang/viewer"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
